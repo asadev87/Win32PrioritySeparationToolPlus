@@ -1,3 +1,18 @@
+## Addendum (Fork Notes)
+
+This project is a fork of [keoy7am/Win32PrioritySeparationTool](https://github.com/keoy7am/Win32PrioritySeparationTool).
+
+This fork adds:
+- Expanded values
+- Decimal and hex values in the UI
+- A characteristics window
+- Sorter controls
+
+Implementation and UX were inspired by [LuSlower/win32ps-changer](https://github.com/LuSlower/win32ps-changer).
+
+Value reference source: [khorvie.tech/win32priorityseparation](https://khorvie.tech/win32priorityseparation/).
+
+
 # Win32PrioritySeparation Tool
 
 It's' a tool to quickly adjust Win32 Priority Separation Registry Key On Windows.
