@@ -1,4 +1,4 @@
-## Addendum (Fork Notes)
+## (Fork Notes)
 
 This project is a fork of [keoy7am/Win32PrioritySeparationTool](https://github.com/keoy7am/Win32PrioritySeparationTool).
 
